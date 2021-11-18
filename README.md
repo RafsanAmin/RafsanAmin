@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm HRM Rafsan Amin</h1>
-<h3 align="center">A junior full-stack developer.</h3>
+<h2 align="center">A junior full-stack developer.</h2>
+<h3 align="center"><i>"Be passionate to what you like. Give attention to your small works. You will find your path to shine."</i> - Rafsan, 2021</h3>
 
 - 🌱 I’m currently learning **Typescrtipt React & MySQL**
 
